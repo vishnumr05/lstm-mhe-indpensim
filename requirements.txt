@@ -1,0 +1,9 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+tensorflow==2.21.0
+keras-tuner
+gekko
+jupyter
+notebook

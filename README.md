@@ -88,8 +88,6 @@ Key variables include:
 
 The notebook removes rows containing zero values and applies statistical outlier removal before model development.
 
-> **Data note:** The dataset is not included in this repository by default. Check the dataset's licensing and redistribution terms before publishing the CSV.
-
 ## Data Preparation
 
 The preprocessing workflow includes:
